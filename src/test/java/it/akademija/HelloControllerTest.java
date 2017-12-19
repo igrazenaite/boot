@@ -1,6 +1,9 @@
 package it.akademija;
 
 import com.jayway.restassured.RestAssured;
+
+import lt.turgus.App;
+
 import org.junit.Before;
 import org.junit.Test;
 import org.junit.runner.RunWith;

@@ -1,7 +1,10 @@
-/home/ieva/Desktop/mvn/hello-world-calc/src/main/java/it/akademija/AppConfig.java
-/home/ieva/Desktop/mvn/hello-world-calc/src/main/java/it/akademija/CreateUserCommand.java
-/home/ieva/Desktop/mvn/hello-world-calc/src/main/java/it/akademija/Product.java
-/home/ieva/Desktop/mvn/hello-world-calc/src/main/java/it/akademija/User.java
-/home/ieva/Desktop/mvn/hello-world-calc/src/main/java/it/akademija/App.java
-/home/ieva/Desktop/mvn/hello-world-calc/src/main/java/it/akademija/HelloController.java
-/home/ieva/Desktop/mvn/hello-world-calc/src/main/java/it/akademija/RestService.java
+/home/ieva/Desktop/web/projectReactSpring/shop-boot-app/src/main/java/lt/turgus/HelloController.java
+/home/ieva/Desktop/web/projectReactSpring/shop-boot-app/src/main/java/lt/turgus/CreateUserCommand.java
+/home/ieva/Desktop/web/projectReactSpring/shop-boot-app/src/main/java/lt/turgus/ProductService.java
+/home/ieva/Desktop/web/projectReactSpring/shop-boot-app/src/main/java/lt/turgus/App.java
+/home/ieva/Desktop/web/projectReactSpring/shop-boot-app/src/main/java/lt/turgus/ProductRepository.java
+/home/ieva/Desktop/web/projectReactSpring/shop-boot-app/src/main/java/lt/turgus/User.java
+/home/ieva/Desktop/web/projectReactSpring/shop-boot-app/src/main/java/lt/turgus/ProductForClient.java
+/home/ieva/Desktop/web/projectReactSpring/shop-boot-app/src/main/java/lt/turgus/ProductController.java
+/home/ieva/Desktop/web/projectReactSpring/shop-boot-app/src/main/java/lt/turgus/Product.java
+/home/ieva/Desktop/web/projectReactSpring/shop-boot-app/src/main/java/lt/turgus/AppConfig.java

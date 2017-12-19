@@ -2,8 +2,8 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>it.akademija</groupId>
-    <artifactId>hello-world-calc</artifactId>
+    <groupId>lt.turgus</groupId>
+    <artifactId>shop-boot-app</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>war</packaging>
 
@@ -17,7 +17,7 @@
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <start-class>it.akademija.App</start-class>
+        <start-class>lt.turgus.App</start-class>
         <java.version>1.8</java.version>
         <lombok.version>1.14.8</lombok.version>
         <log4jdbc.log4j2.version>1.16</log4jdbc.log4j2.version>
@@ -69,6 +69,20 @@
 			<groupId>com.integralblue</groupId>
 			<artifactId>log4jdbc-spring-boot-starter</artifactId>
 			<version>1.0.2</version>
+		</dependency>
+		<dependency>
+			<groupId>io.springfox</groupId>
+			<artifactId>springfox-swagger2</artifactId>
+			<version>2.5.0</version>
+		</dependency>
+		<dependency>
+			<groupId>io.springfox</groupId>
+			<artifactId>springfox-swagger-ui</artifactId>
+			<version>2.5.0</version>
+		</dependency>
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-data-jpa</artifactId>
 		</dependency>
     </dependencies>
     <build>
